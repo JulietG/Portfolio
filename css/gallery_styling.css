@@ -7,3 +7,29 @@
 	height: 300%;
 	
 }*/
+
+.pdf-test {
+	height: 500px;
+	width: 100%;
+}
+#testModal {
+	height: 500px !important;
+	width: auto;
+}
+
+.modal.in .modal-dialog {
+  transform: none;
+}
+
+button {
+	background-color: white !important;
+	border-color: white !important;
+}
+button:hover{
+	opacity: .5 !important;
+	-webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
